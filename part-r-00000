@@ -1,0 +1,24 @@
+### Error Rankings ###	0
+Tried to add information to a closed ticket	170
+Connection to DB failed	85
+The ticket was modified while updating	77
+Timeout while retrieving information	73
+Permission denied while closing ticket	68
+
+### User Usage Statistics ###	0
+ac_ERROR	51
+ac_INFO	74
+blossom_ERROR	70
+blossom_INFO	70
+breee_ERROR	75
+breee_INFO	69
+jackowens_ERROR	62
+jackowens_INFO	63
+mcintosh_ERROR	53
+mcintosh_INFO	66
+mdouglas_ERROR	47
+mdouglas_INFO	48
+oren_ERROR	62
+oren_INFO	71
+rr.robinson_ERROR	53
+rr.robinson_INFO	66

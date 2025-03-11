@@ -1,0 +1,6 @@
+Error Message,Count
+Tried to add information to a closed ticket,170
+Connection to DB failed,85
+The ticket was modified while updating,77
+Timeout while retrieving information,73
+Permission denied while closing ticket,68
