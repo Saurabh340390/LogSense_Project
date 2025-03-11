@@ -12,7 +12,7 @@ Here are two crucial framework of this project : Apache Spark and hadoop.
 # Data storage and preprocessing.
 The log data contains multiple fields like timestamps, username, ticket ID, etc. Which might be unnecessary.
 This log data can be huge as it generates with every action and hence forth might be costlier or not memory-
-efficient if utilize spark. hence I prefer the MapReduce of hadoop to preprocess the data efficently. 
+efficient if choose to utilize spark. hence I prefer the MapReduce of hadoop to preprocess the data efficently. 
 With preprocessing the raw log data is converted to a meaningful and structured data. The proccess is as such:
 log-data collection (in our case synthetic log-data) ----> Passed to MapReduce jar file ----> part--r-00000 file generated
 this file --converted--> CSV file (error ranking, user_data)
