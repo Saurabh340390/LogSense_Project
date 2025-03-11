@@ -1,5 +1,6 @@
 # Hadoop-Apache_Project
 Project : Log Analysis and Anomaly Detection Using Hadoop-MapReduce, and Apache Spark
+
 About project :
 Well various company utilizes server that run a special service. A service which logs events to the system log.
 However, logging is not enough. This data is crucial for company as well as developer's.
