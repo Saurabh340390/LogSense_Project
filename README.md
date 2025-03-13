@@ -32,6 +32,6 @@ Once the structured data is stored in HDFS, Apache Spark is used to process and 
 
 For further insights, K-Means clustering is applied to group users based on behavior. The optimal number of clusters is determined using the Elbow Method, ensuring efficient anomaly detection and behavioral segmentation.
 
-#About Me
+# About Me
 
 I am an aspiring software engineer with hands-on experience in algorithms, data structures, and large-scale data processing. My strengths lie in problem-solving and code optimization. I am passionate about AI, Big Data, and scalable software solutions and believe in continuous learning and teamwork.
